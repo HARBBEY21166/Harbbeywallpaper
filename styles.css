@@ -9,7 +9,6 @@ html{
 h3{
   color: blue;
   float: left;
-  text-transform: uppercase;
 }
 
 header{
@@ -76,7 +75,7 @@ a{
 }
 
 /*img{
-  width: 100%;
+  width: 100%;l
   height: auto;
   padding: 5px;
 }
