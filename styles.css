@@ -81,10 +81,14 @@ a{
 }
 
 .column img{
-  border: 2px solid blue;
+  border: 2px solid whitesmoke;
   margin: 4px;
   border-radius: 13px;
   transition: 2.s;
+}
+
+.column img:hover{
+  border: 3px solid black;
 }
 
 /*img:hover{
